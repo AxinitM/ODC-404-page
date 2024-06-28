@@ -13,7 +13,7 @@ the 404 page. The page was created as part of the [Front End Developer Course by
 
 ### Screenshot
 
-![](/images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
